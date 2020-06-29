@@ -1,0 +1,1 @@
+Simple C# app that created a system tray icon that displays the current master volume in the system tray as a percentage. Requires the NAudio library.
